@@ -1,0 +1,42 @@
+{
+  "name": "space-theme",
+  "displayName": "Space Theme",
+  "description": "A Space Theme For Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.17.0"
+  },
+  "icon": "./icon/space.jpg",
+  "author": {
+    "email": "18561306587@163.com",
+    "name": "Wang Jiabo",
+    "url": "https://github.com/lovewjb"
+  },
+  "publisher": "Wang Jiabo",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/lovewjb/space-theme.git"
+  },
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "space",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Space Theme (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space Theme-color-theme.json"
+      },
+      {
+        "label": "Space Theme (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/Space Theme-color-light-theme.json"
+      }
+    ]
+  }
+}
