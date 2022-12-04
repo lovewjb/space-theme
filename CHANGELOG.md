@@ -1,9 +1,3 @@
-# Change Log
+## 0.0.2 (2022-12-4)
 
-All notable changes to the "space-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Created Space Theme
