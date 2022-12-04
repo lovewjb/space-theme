@@ -1,5 +1,6 @@
 {
 	"name": "Space Theme",
+	"type": "Dark",
 	"colors": {
 		"editor.background": "#263238",
 		"editor.foreground": "#eeffff",
